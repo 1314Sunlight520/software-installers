@@ -1,0 +1,16 @@
+{
+  "软件名称": "Claude Desktop",
+  "版本": "2.42304.2",
+  "文件": [
+    {
+      "文件名": "Claude-Desktop-Windows-x64.exe",
+      "平台": "Windows",
+      "架构": "x64",
+      "相对路径": "文件/Claude Desktop/2.42304.2/Windows/x64/Claude-Desktop-Windows-x64.exe",
+      "大小字节": 249144480,
+      "大小MB": 237.66,
+      "SHA256": "669B6C60B1A56028DF49D745D045658F51BE5CF787B7D17792DA632ED0D2EB1C"
+    }
+  ],
+  "说明": "Claude Desktop 官方 Windows 64 位安装包。"
+}
